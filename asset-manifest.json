@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Technica22-DreamBoardApp/static/css/main.073c9b0a.css",
+    "main.js": "/Technica22-DreamBoardApp/static/js/main.088622dd.js",
+    "static/js/787.edd59a96.chunk.js": "/Technica22-DreamBoardApp/static/js/787.edd59a96.chunk.js",
+    "static/media/logo.svg": "/Technica22-DreamBoardApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Technica22-DreamBoardApp/index.html",
+    "main.073c9b0a.css.map": "/Technica22-DreamBoardApp/static/css/main.073c9b0a.css.map",
+    "main.088622dd.js.map": "/Technica22-DreamBoardApp/static/js/main.088622dd.js.map",
+    "787.edd59a96.chunk.js.map": "/Technica22-DreamBoardApp/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.088622dd.js"
+  ]
+}
